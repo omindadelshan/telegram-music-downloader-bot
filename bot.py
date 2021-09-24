@@ -61,7 +61,8 @@ class Chat:
 
         self.messages = {
             'start':'🤖 Hello, '+ self.user_name +'!\n\n'
-                    '📩 Send me:\n\n'
+                    'I am Powerfull Telegram Song Downloader Bot..\n\n'
+                    ' My Commands Fromate🔱'\n\n
                     '"*/music* _song name_"  or\n'
                     '"*/music* _musician name - song name_"\n\n'
                     'to order some music. 🎶',
